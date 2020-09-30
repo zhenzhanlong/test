@@ -12,7 +12,7 @@ import com.gupaoedu.mvcframework.annotation.GPRequestMapping;
 import com.gupaoedu.mvcframework.annotation.GPRequestParam;
 
 
-//虽然，用法一样，但是没有功能
+//虽然，用法一样，但是没有功能,在线编辑测试文件冲突
 @GPController
 @GPRequestMapping("/demo")
 public class DemoAction {
