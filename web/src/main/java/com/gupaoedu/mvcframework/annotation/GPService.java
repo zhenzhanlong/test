@@ -1,7 +1,7 @@
 package com.gupaoedu.mvcframework.annotation;
 
 import java.lang.annotation.*;
-//哈桑·怀特塞德，文件更新，浏览器文件编辑
+//哈桑·怀特塞德，文件更新，浏览器文件编辑，文件编辑器继续修改
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
